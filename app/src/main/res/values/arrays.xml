@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="appStart">
+        <item>Swap Anything</item>
+        <item>Anytime</item>
+        <item>From Anywhere</item>
+    </string-array>
+</resources>

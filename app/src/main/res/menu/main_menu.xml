@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/home_icon"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/profile"
+            android:icon="@drawable/acc_icon"
+            android:title="My Account" />
+
+        <item
+            android:id="@+id/logout"
+            android:icon="@drawable/logout_icon"
+            android:title="Logout" />
+    </group>
+
+
+</menu>

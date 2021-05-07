@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Swapper</string>
+    <string name="lets_go">Lets Go</string>
+    <string name="make_listing">Make a Listing</string>
+    <string name="start_swapping">Start Swapping!</string>
+    <string name="avatar">Profile Pic</string>
+    <string name="welcome">Welcome to your Profile</string>
+    <string name="edit_acc">Edit your account</string>
+    <string name="update_acc">Update your account</string>
+    <string name="acc_page">My account</string>
+    <string name="reset">Reset your Password</string>
+    <string name="logout">Logout</string>
+    <string name="cancel">Cancel</string>
+    <string name="listings">Listings</string>
+    <string name="makeListings">New Post</string>
+    <string name="editListings">Edit Post</string>
+    <string name="post">Post!</string>
+    <string name="currPost">Post</string>
+    <string name="selectTime">Select Date and Time</string>
+    <string name="updatePost">Update</string>
+    <string name="selectCategory">Select Category:</string>
+    <string name="choosePhoto">Select image</string>
+    <string name="profilePic">Set Profile Picture</string>
+    <string name="home">Back to Home</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string-array name="categories">
+        <item> </item>
+        <item>Furniture</item>
+        <item>Books</item>
+        <item>Electronics</item>
+        <item>Games</item>
+        <item>Clothes</item>
+        <item>Anything</item>
+    </string-array>
+    <string name="choose_meetup_time">Choose Meetup Time</string>
+    <string name="choose_time_prompt">Please choose a meet up time</string>
+    <string name="choose_meetup_date">Choose Meetup Date</string>
+    <string name="choose_date_prompt">Please choose a date</string>
+    <string name="confirm_time_prompt">Confirm Time</string>
+    <string name="confirm_info_prompt">Confirm Information</string>
+    <string name="confirm_info_prompt2">Trading</string>
+    <string name="confirm_info_prompt3">For</string>
+    <string name="confirm_info_prompt4">At</string>
+    <string name="confirm_info_prompt5">On</string>
+
+</resources>
